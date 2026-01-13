@@ -1,4 +1,4 @@
-# projeto-rocketseat
+# projetorocketseat
 
 <h1 align="center"> DevLinks </h1>
 
@@ -52,4 +52,6 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+
+# projetorocketseat
 # projetorocketseat
